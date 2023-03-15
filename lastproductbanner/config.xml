@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>lastproductbanner</name>
+	<displayName><![CDATA[Last Product Banner]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Display a header banner indicating the last product added.]]></description>
+	<author><![CDATA[Flodra]]></author>
+	<tab><![CDATA[advertising_marketing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
